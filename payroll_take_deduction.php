@@ -6,4 +6,4 @@
 		'Type',
 		'Amount',
 		'Start At',
-	]; 
+	];  
