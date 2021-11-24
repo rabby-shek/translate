@@ -1,0 +1,7 @@
+<?php
+	return[
+	'Deduction List',
+	'Deduction',
+	'Description',
+
+	];
